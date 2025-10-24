@@ -118,7 +118,7 @@ Create a mobile UI for manual calibration
 
 👨‍💻 Author
 
-Bhanupal Singh
+Bhanupal 
 📍 IIIT-Delhi
 🎓 Independent Design Project (2025)
 🖥️ Interactive Projection Mapping on a Wooden Portrait
